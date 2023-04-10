@@ -1,4 +1,4 @@
-# RAVE VST (BETA)
+# RAVE VST (BETA) BUMP!
 -----
 Include RAVE models in your DAW for realtime deep learning based processing
 
